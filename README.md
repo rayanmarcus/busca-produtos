@@ -16,4 +16,4 @@
 - `npm run build` - para buildar o projeto.
 
 #### <span style="padding: 3px 3px; background: #00aeff; color: #fff;">🔗 Veja funcionando no Netlify</span>
-- [Busca Produtos](#)
+- [Busca Produtos](https://busca-produtos-rm.netlify.app)
