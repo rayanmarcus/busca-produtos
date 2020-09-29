@@ -1,24 +1,19 @@
-# busca-produtos
+# Busco Produtos - Consumido API de lista de produtos
 
-## Project setup
-```
-npm install
-```
+## 🤖 Instalando o projeto
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### Clone ou baixe o repositório e execute os seguintes comandos:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+#### <span style="padding: 3px 3px; background: blue; color: #fff;">🛠 Instalação de dependências</span>
 
-### Lints and fixes files
-```
-npm run lint
-```
+- `npm install` - utilize este comando para instalar todas as dependências necessárias.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### <span style="padding: 3px 3px; background: blue; color: #fff;">💻 Para desenvolvimento</span>
+
+- `npm run serve` - para incializar o servidor front-end.
+
+#### <span style="padding: 3px 3px; background: green; color: #fff;">👌 Para produção</span>
+- `npm run build` - para buildar o projeto.
+
+#### <span style="padding: 3px 3px; background: #00aeff; color: #fff;">🔗 Veja funcionando no Netlify</span>
+- [Busca Produtos](#)

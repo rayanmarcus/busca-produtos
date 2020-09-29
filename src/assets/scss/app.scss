@@ -1,0 +1,25 @@
+@import './variables';
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+// Efeitos de transição na lista de produtos
+.list-enter-active, .list-leave-active {
+  transition: all .6s;
+  transition-delay: 0.2s;
+}
+.list-enter, .list-leave-to {
+  opacity: 0;
+  transform: translateY(-30px);
+}
+
+.msg{
+  opacity: 0;
+  transition: all 0.1s;
+  font-size: 14px;
+  display: block;
+  &.success{
+    color: #5c8d01;
+  }
+  &.error{
+    color: #d80101;
+  }
+}
