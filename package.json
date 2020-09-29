@@ -12,8 +12,7 @@
     "bootstrap": "^4.5.2",
     "core-js": "^3.6.5",
     "email-validator": "^2.0.4",
-    "vue": "^2.6.11",
-    "vue-loading-skeleton": "^1.1.9"
+    "vue": "^2.6.11"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
